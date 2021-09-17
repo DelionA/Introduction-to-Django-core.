@@ -7,6 +7,11 @@ The example was created based on video tutorials.
 Admin username and password:admin
 
 # Output
+<img src="https://github.com/DelionA/Introduction-to-Django-core./blob/master/screenshots/2021-09-17%2010-10-23.png">
+<img src="https://github.com/DelionA/Introduction-to-Django-core./blob/master/screenshots/2021-09-17%2010-10-56.png">
+<img src="https://github.com/DelionA/Introduction-to-Django-core./blob/master/screenshots/2021-09-17%2010-11-18.png">
+<img src="https://github.com/DelionA/Introduction-to-Django-core./blob/master/screenshots/2021-09-17%2010-12-04.png">
+
 
 
 # Autor
